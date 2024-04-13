@@ -1,3 +1,3 @@
 # EndpointRecyclerView
 Tentativa EndpointComRecyclerView 
-Não consegui resolver conflitox na conversao textview em string.
+Não consegui resolver conflito na conversao textview em string.
